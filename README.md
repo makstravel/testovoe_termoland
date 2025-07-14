@@ -10,20 +10,21 @@
 ## Быстрый старт
 
 1. **Клонируйте репозиторий и создайте виртуальное окружение:**
-2. 
+
 ```sh
 https://github.com/makstravel/testovoe_termoland.git
 ```
+
 ```sh
 cd testovoe_termoland
 ```
 
-    ```sh
+```sh
    
     python3 -m venv .venv
     source .venv/bin/activate
     pip install -r requirements.txt
-    ```
+```
 
 3. **Проверьте, что рядом с main.py есть файл `Справочник.xlsx` такого вида:**
     | GUID      | Наименование |
