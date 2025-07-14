@@ -20,13 +20,13 @@ cd testovoe_termoland
 ```
 
 ```sh
-    python3 -m venv .venv
+python3 -m venv .venv
 ```
 ```sh
-    source .venv/bin/activate
+source .venv/bin/activate
 ```
 ```sh
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 3. **Проверьте, что рядом с main.py есть файл `Справочник.xlsx` такого вида:**
