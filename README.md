@@ -12,7 +12,7 @@
 1. **Клонируйте репозиторий и создайте виртуальное окружение:**
 
 ```sh
-https://github.com/makstravel/testovoe_termoland.git
+git clone https://github.com/makstravel/testovoe_termoland.git
 ```
 
 ```sh
